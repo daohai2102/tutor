@@ -1,3 +1,4 @@
 Even the Monkey can understand the Git commands
 add: Registered to Index
 add for the second time
+pull: get remote repository content
