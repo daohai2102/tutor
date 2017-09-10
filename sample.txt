@@ -1,1 +1,2 @@
 Even the Monkey can understand the Git commands
+add: Registered to Index
